@@ -20,6 +20,7 @@ body {
     display: inline;
     padding-left: 20px;
     cursor: pointer;
+    font-family: 'Roboto', sans-serif;
 }
 
 .Menu-List:hover{
