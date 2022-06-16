@@ -47,7 +47,9 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-position: fixed;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
 }
 
 h1{
